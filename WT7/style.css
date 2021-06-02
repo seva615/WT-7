@@ -1,0 +1,7 @@
+input {
+	margin: 10px;
+}
+
+.input phone {
+	border: 1px solid red;
+}
